@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🔭 I’m currently working as Mobile Engineer using native or hybrid using flutter ✨.
 <!--
 **alvarisi/alvarisi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
